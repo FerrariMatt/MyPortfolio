@@ -473,6 +473,17 @@ section {
   background-color: #0563bb;
 }
 
+.devicon {
+  font-size:77px;
+  max-height: 77px;
+  max-width: 77px;
+  margin-left: 10px;
+}
+
+.devicon:hover {
+  color:#bc032b;
+}
+
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
@@ -497,7 +508,7 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #bc032b;
+  color: #c4c7c9;
   margin-bottom: 10px;
 }
 
@@ -508,7 +519,7 @@ section {
   display: inline-block;
   font-weight: 600;
   margin-bottom: 10px;
-  color: #fff;
+  color: #c4c7c9;
 }
 
 .resume .resume-item ul {
