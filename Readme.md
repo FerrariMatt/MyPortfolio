@@ -31,7 +31,7 @@ Se você tiver alguma pergunta ou quiser entrar em contato comigo, sinta-se à v
 
 Espero que goste do meu portfolio!
 
-
+## 
 
 Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
 Author: BootstrapMade.com
