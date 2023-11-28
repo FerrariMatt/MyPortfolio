@@ -854,7 +854,7 @@ section {
 
 .contact .php-email-form .loading {
   display: none;
-  background: #fff;
+  background: #c4c7c9;
   text-align: center;
   padding: 15px;
 }
@@ -887,9 +887,10 @@ section {
   padding: 10px 12px;
 }
 
-.contact .php-email-form button[type=submit] {
+.contact button[type=submit] {
   background: #bc032b;
   border: 0;
+  margin-top: 15px;
   padding: 10px 35px;
   color: #fff;
   transition: 0.4s;
