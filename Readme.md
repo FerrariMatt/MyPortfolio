@@ -24,7 +24,6 @@ Este portfolio é uma demonstração do meu trabalho em desenvolvimento web, abr
   
 - **Back-end:**
   - Python
-  - Banco de dados (por exemplo, SQLite, MySQL, PostgreSQL)
 
 ## Contato
 
