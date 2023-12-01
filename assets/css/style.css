@@ -760,6 +760,7 @@ section {
 
 .portfolio-details .portfolio-description {
   padding-top: 30px;
+  color: #fff;
 }
 
 .portfolio-details .portfolio-description h2 {
@@ -772,6 +773,12 @@ section {
   padding: 0;
 }
 
+.media-tablet-off {
+
+  @media (max-width: 800px) {
+      display: none;
+  }
+}
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
